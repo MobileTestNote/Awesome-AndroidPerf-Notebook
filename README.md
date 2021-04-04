@@ -29,9 +29,11 @@
 # 关于我们
 我们是一群热爱客户端测试、热爱应用体验提升的小伙伴
 - 微信群二维码(如果二维码过期请添加尼克毛微信):
+- 
 <img src="https://user-images.githubusercontent.com/16631352/113505669-f12cfd80-9572-11eb-9d0c-211f2af8ade9.png" width="250" alt="微信群二维码"/><br/>
 ## 尼克毛
 - 微信：Hello-NickKris
 - 微信二维码:
+
 <img src="https://user-images.githubusercontent.com/16631352/113505966-841a6780-9574-11eb-94ed-e54dbbac9d6f.png" width="250" alt="Hello-NickKris"/><br/>
 - Git：https://github.com/qkmaosjtu
